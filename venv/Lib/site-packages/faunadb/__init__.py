@@ -1,0 +1,6 @@
+__title__ = "FaunaDB"
+__version__ = "4.5.1"
+__api_version__ = "4"
+__author__ = "Fauna, Inc"
+__license__ = "MPL 2.0"
+__copyright__ = "2023 Fauna, Inc"
